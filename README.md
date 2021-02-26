@@ -1,6 +1,6 @@
 # Candy Finance
 
-https://candyfinance.org Feel free to read the code. More details coming soon.
+https://candyswap.net Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 
